@@ -19,6 +19,7 @@ We have employed two methods to merge images in the dataset into an HDR file usi
   b. then store the ***hdrtohtml.sh*** in you compute and run it.
   c. The HTML files will be automatically stored in your specified order, facilitated by the script named ***hdrtohtml.sh***. This script likely handles the conversion of the HDR data into HTML format and organizes the resulting files according to your predefined order or criteria.
 
+#4. When you want to get the Dataset or have any questions please contect ***xinyu.wei@student.uni-siegen.de***
   
 
   
